@@ -1,4 +1,4 @@
 # MinecraftAssetsMapping
 Mapping assets files to original directory.
 
-Usage: Main.php <AssetsJsonFile> <AssetsDir> <OutputDir>
+Usage: `Main.php <AssetsJsonFile> <AssetsDir> <OutputDir>`
